@@ -39,7 +39,7 @@
       // EmulatorJS configuration
       EJS_player = "#game";
       EJS_core = "nes"; // Try "gba", "snes", "n64", etc.
-      EJS_gameUrl = "https://cdn.jsdelivr.net/gh/huracansto8-ops/tbnfl@main/TSB%20-%20NCAA%202K25%20Edition%20%5BHARDTYPE%5D.nes"; // Change this URL
+      EJS_gameUrl = "https://cdn.jsdelivr.net/gh/huracansto8-ops/tbnfl@main/TSB%202025%20v2.0%20%5BHARDTYPE%5D.nes"; // Change this URL
       EJS_pathtodata = "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/storage/emulatorjs/data";
       EJS_startOnLoaded = true;
 
